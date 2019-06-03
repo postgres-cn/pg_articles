@@ -8,3 +8,10 @@ https://github.com/postgres-cn/pg_articles/wiki/PostgreSQL%E6%96%87%E7%AB%A0%E7%
 
 PostgreSQL中文社区文章翻译群运作规范：
 https://github.com/postgres-cn/pg_articles/wiki/PostgreSQL%E4%B8%AD%E6%96%87%E7%A4%BE%E5%8C%BA%E6%96%87%E7%AB%A0%E7%BF%BB%E8%AF%91%E7%BE%A4%E8%BF%90%E4%BD%9C%E8%A7%84%E8%8C%83
+
+
+## 文档存放规则
+
+已翻译：已经翻译，但是未校对的文章。
+已校对：已经校对，但是未发表的文章。
+已发表：校对完成，已经发表的文章。

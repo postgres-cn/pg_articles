@@ -40,9 +40,9 @@
 |8|[massively parallel Postgres database onto Kubernetes](http://engineering.pivotal.io/post/how_we_moved_a_massively_parallel_postgres_database_onto_kubernetes)|翻译中|陈河堆|2018-03-30|[allen7lee](https://github.com/allen7lee)|2019-4-25|已投稿|
 |9|[Why CockroachDB and PostgreSQL Are Compatible](https://www.cockroachlabs.com/blog/why-postgres/)|翻译中|fredchenbj|2019-04-14|fredchenbj|2019-4-14|No|
 | 10| [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html "The Internals of PostgreSQL") |翻译中 | qinghui.guo     | 2019-04-14 | qinghui.guo | 无| 否|
-|11|[GPU Accelerated SQL queries with PostgreSQL & PG-Strom in OpenShift-3.10](https://blog.openshift.com/gpu-accelerated-sql-queries-with-postgresql-pg-strom-in-openshift-3-10/ "GPU Accelerated SQL queries with PostgreSQL & PG-Strom in OpenShift-3.10")|完成|朱君鹏|2019-4-14|朱君鹏|2019-4-15|否|
+|11|[GPU Accelerated SQL queries with PostgreSQL & PG-Strom in OpenShift-3.10](https://blog.openshift.com/gpu-accelerated-sql-queries-with-postgresql-pg-strom-in-openshift-3-10/ "GPU Accelerated SQL queries with PostgreSQL & PG-Strom in OpenShift-3.10")|完成|朱君鹏|2019-4-14|朱君鹏|2019-4-15|已投稿|
 |12|[Understanding caching in Postgres - An in-depth guide](https://madusudanan.com/blog/understanding-postgres-caching-in-depth/)|完成|LittleWuCoding|2019-4-14|LittleWuCoding|2019-4-29|已投稿|
-|13|[An intelligent storage for PostgreSQL database](http://heterodb.com/blobs/P7130_KAIGAI_SSD2GPU_FIXTYPO.pdf)|完成|朱君鹏|2019-4-15|朱君鹏|2019-4-15|否|
+|13|[An intelligent storage for PostgreSQL database](http://heterodb.com/blobs/P7130_KAIGAI_SSD2GPU_FIXTYPO.pdf)|完成|朱君鹏|2019-4-15|朱君鹏|2019-4-15|已校对|
 |14|[PG-Strom Manual](https://heterodb.github.io/pg-strom/)|翻译中|朱君鹏|2019-4-15|朱君鹏|无|否|
 |15|[pgBackRest - Performing Backups on a Standby Cluster](https://info.crunchydata.com/blog/pgbackrest-performing-backups-on-a-standby-cluster)|已翻译|秦红胜|2019-4-10|秦红胜|2018-04-15|已投稿|
 |16|[GPU-based Sorting in PostgreSQL](https://pdfs.semanticscholar.org/869f/beb4db447174d4c6a475e942a2607465a410.pdf)|完成|朱君鹏|2019-4-16|朱君鹏|2018-4-16|已发表|
@@ -50,7 +50,7 @@
 |18|[Optimizing storage of small tables in PostgreSQL 12](https://www.2ndquadrant.com/en/blog/optimizing-storage-small-tables-postgresql-12/)|完成|Nail|2019-4-19|Nail|2019-4-23|否|
 |19|[ADDING AN INDEX CAN DECREASE SELECT PERFORMANCE](https://www.cybertec-postgresql.com/en/index-decreases-select-performance/)|已发表|陈雁飞|2019-4-20|陈雁飞+李冉|无|已投稿|
 |20|[PostgreSQL: Access ClickHouse, One of the Fastest Column DBMSs, With clickhousedb_fdw](https://www.percona.com/blog/2019/03/29/postgresql-access-clickhouse-one-of-the-fastest-column-dbmss-with-clickhousedb_fdw/)|完成|李红艳|2019-4-20|李红艳+吴伟略|2019-5-17|否|
-|21|[A Close Look at the Index Include Clause](https://use-the-index-luke.com/blog/2019-04/include-columns-in-btree-indexes)|翻译中|陈雁飞|2019-5-4|陈雁飞|2019-6-16|否|
+|21|[A Close Look at the Index Include Clause](https://use-the-index-luke.com/blog/2019-04/include-columns-in-btree-indexes)|翻译中|陈雁飞|2019-5-4|陈雁飞+李冉|2019-6-16|已校对|
 |22|[Replication Between PostgreSQL Versions Using Logical Replication](https://www.percona.com/blog/2019/04/04/replication-between-postgresql-versions-using-logical-replication/)|已校对|崔鹏|2019-5-21|Qinghui.guo|2019-5-09|否|
 |23|[PostgreSQL Locking Revealed](https://www.linkedin.com/pulse/postgresql-locking-revealed-petar-partlov)|翻译中|陈雁飞|2019-6-16|陈雁飞|NO|否|
 |24|[Writing Postgres Extensions - the Basics](http://big-elephants.com/2015-10/writing-postgres-extensions-part-i/)|翻译中|李阳|2019-6-19|李阳|NO|否|
